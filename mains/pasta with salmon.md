@@ -8,5 +8,5 @@
 
 ## Instructions
 
-- Step 1
+- boil the pasta for 10 mins
 - Step 2
